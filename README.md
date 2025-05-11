@@ -1,1 +1,1 @@
-# Basic_C-_Code
+Basic C++ code for beginners
